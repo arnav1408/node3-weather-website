@@ -4,8 +4,8 @@ body {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
-    background-image: url('https://i.pinimg.com/564x/86/81/e2/8681e2fdc8e461c3ea92b26d94dd9339.jpg');
-    background-size: 100%;
+    /* background-image: url('https://i.pinimg.com/564x/86/81/e2/8681e2fdc8e461c3ea92b26d94dd9339.jpg');
+    background-size: 100%; */
 
     display: flex;
     flex-direction: column;
